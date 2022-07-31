@@ -1,5 +1,7 @@
 <h1> Termo PT-BR</h1>
 
+[README in EN-US](https://github.com/Flyinng/Termo/blob/main/README.md)
+
 ### Programa baseado no New York Times Wordle
 
 ### Como jogar:
