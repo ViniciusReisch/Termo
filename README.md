@@ -1,14 +1,15 @@
-<h1> Termo PT-BR</h1>
+<h1> Termo EN-US</h1>
+<h6 href=“https://github.com/Flyinng/Termo/blob/main/README-PT-BR.md“> ⬅ README em PT-BR </h6>
 
-### Programa baseado no New York Times Wordle
+### Program based on the New York Times Wordle
+### How to play:
+   - Type a word of up to 5 letters that appears in the Brazilian dictionary
+   - Word letters returned with colored and accented (if they have accents)
+### Colors:
+   - 🟩 Green - The letter contains in the secret word and is in its original position
+   - 🟨 Yellow - The letter contains in the secret word but is in the wrong position
+   - ⬛ Black - The letter isn't in the secret word
 
-### Como jogar:
-   - Digite uma palavra de até 5 letras que conste no dicionário brasileiro
-   - As letras da palavra retornaram com cores e acentuadas (se conterem acentos)
-### Cores
-   - 🟩 Verde - A letra contém na palavra secreta além de estar em sua posição original
-   - 🟨 Amarelo - A letra contém na palavra secreta porém está na posição errada
-   - ⬛ Preto - A letra não está na palavra secreta
 
 <br>
-<h4> 📜Projeto desenvolvido na turma de Python do Programa Entra21 </h4>
+<h4> 📜Project developed in the Entra21 Python Class</h4>
