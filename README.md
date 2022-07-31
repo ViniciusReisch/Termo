@@ -1,5 +1,6 @@
 <h1> Termo EN-US</h1>
-https://github.com/Flyinng/Termo/blob/main/README-PT-BR.md ⬅ README em PT-BR </h6>
+
+[README em PT-BR](https://github.com/Flyinng/Termo/blob/main/README-PT-BR.md)
 
 ### Program based on the New York Times Wordle
 ### How to play:
