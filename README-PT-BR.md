@@ -2,7 +2,7 @@
 
 [README in EN-US](https://github.com/Flyinng/Termo/blob/main/README.md)
 
-### Programa baseado no New York Times Wordle
+### Programa desenvolvido em ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54), baseado no New York Times Wordle
 
 ### Como jogar:
    - Digite uma palavra de até 5 letras que conste no dicionário brasileiro
