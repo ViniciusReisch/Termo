@@ -13,4 +13,4 @@
    - ⬛ Preto - A letra não está na palavra secreta
 
 <br>
-<h4> 📜Projeto desenvolvido na turma de Python do Programa Entra21 </h4>
+📜Project developed in the <a href="https://www.entra21.com.br/">Entra21</a> Python Class
