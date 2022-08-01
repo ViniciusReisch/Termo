@@ -2,7 +2,7 @@
 
 [README em PT-BR](https://github.com/Flyinng/Termo/blob/main/README-PT-BR.md)
 
-### Program based on the New York Times Wordle
+### Program made in ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) based on the New York Times Wordle
 ### How to play:
    - Type a word of up to 5 letters that appears in the Brazilian dictionary
    - Word letters returned with colored and accented (if they have accents)
